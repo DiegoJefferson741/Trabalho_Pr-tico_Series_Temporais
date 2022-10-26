@@ -1,4 +1,4 @@
-# Trabalho_Pr-tico_Series_Temporais
+# Trabalho_Pratico_Series_Temporais
 IOT - Trabalho prático - Séries Temporais
 
 Links Uteis
