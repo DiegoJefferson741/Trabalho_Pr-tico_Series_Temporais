@@ -14,3 +14,6 @@ https://diegojfsr.notion.site/IOT-Trabalho-pr-tico-S-ries-Temporais-cb1de4b60a60
 Links Uteis
 
 https://www.vooo.pro/insights/guia-completo-para-criar-time-series-com-codigo-em-python/
+<br>
+<br>
+Este repositório foi criado para fins de estudo, então contribua com ele.
